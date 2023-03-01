@@ -114,7 +114,7 @@ codigo ends
 END main
 ```
 ### Bien, teniendo ya el código pasamos a compilarlo y enlazarlo en DOSBOX, que es básicamente igual que el anterior.
-### En este caso yo he decidido hacerlo en otro archivo asm aparte para tener los 2 ejemplo por separado.
+### En este caso yo he decidido hacerlo en otro archivo asm aparte para tener los 2 ejemplos por separado.
 ![CODIGO2](S1-HOLA_MUNDO_CODIGO_BUCLE_CODIGO.png)
 ### Hacemos C.BAT {nombre del programa a compilar}
 `C.BAT MUNDO`
