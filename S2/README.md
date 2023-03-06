@@ -1,5 +1,5 @@
 # SEMINARIO 2 - EJERCICIOS:
-### En seminario se nos pide que hagamos 2 ejercicios, los cuales son:
+### En este seminario se nos pide que hagamos 2 ejercicios, los cuales son:
 1. Realizar un programa en lenguaje C que llame a la función de **cambio de modo de video** y comprobar su funcionamiento. 
 2. Realizar otro programa en lenguaje C que que llame a la función de interrupción correspondiente a la **lectura de caracteres desde teclado**. Ejecutarlo para leer las pulsaciones de teclado y **mostrarlas por pantalla** usando otra función de interrupción.
 ---------------
