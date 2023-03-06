@@ -54,7 +54,7 @@ int main(){
  ![ModoVideo2](ModoVideo2.png)
 
  -------------------------
-## EJERCICIO 2: Lectur de pulsaciones.
+## EJERCICIO 2: Lectura de pulsaciones.
 ### Éste ejercicio también viene explicado en el guión y en los ejemplos proporcionados también viene un ejercicio más completo que hace lo que se pide.
 ***leer.c***
 ```
