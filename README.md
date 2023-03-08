@@ -5,7 +5,7 @@
 ## Prácticas
 
 + **Práctica 0:** Presentación.
-+ **Práctica 1:** Entrada/Salida a bajo nivel.
++ **Práctica 1:** [Entrada/Salida a bajo nivel.](p1/)
 + **Práctica 2:** Uso de bibliotecas de programación de interfaces de usuario 
 en modo texto.
 + **Práctica 3:** Experimentación con sistemas de microcontrolador.
