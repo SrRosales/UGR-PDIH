@@ -15,7 +15,7 @@ en modo texto.
 ## Seminarios
 
 + **Seminario 1:** [Programación de dispositivos a bajo nivel.](https://github.com/SrRosales/UGR-PDIH/tree/main/S1)
-+ **Seminario 2:** Entrada/Salida utilizando interrupciones con lenguaje C.
++ **Seminario 2:** [Entrada/Salida utilizando interrupciones con lenguaje C.](https://github.com/SrRosales/UGR-PDIH/tree/main/S2)
 + **Seminario 3:** Experimentación con sistemas de microcontrolador.
 + **Seminario 4:** Desarrollo de drivers en Linux.
 + **Seminario 5:** Manejo de sonido en R.
