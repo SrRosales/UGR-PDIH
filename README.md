@@ -6,7 +6,7 @@
 
 + **Práctica 0:** Presentación.
 + **Práctica 1:** [Entrada/Salida a bajo nivel.](https://github.com/SrRosales/UGR-PDIH/tree/main/P1)
-+ **Práctica 2:** Uso de bibliotecas de programación de interfaces de usuario 
++ **Práctica 2:** Uso de bibliotecas de programación de interfaces de usuario
 en modo texto.
 + **Práctica 3:** Experimentación con sistemas de microcontrolador.
 + **Práctica 4:** Lenguaje de descripción de páginas para impresoras.
@@ -14,7 +14,7 @@ en modo texto.
 
 ## Seminarios
 
-+ **Seminario 1:** Programación de dispositivos a bajo nivel.
++ **Seminario 1:** [Programación de dispositivos a bajo nivel.](https://github.com/SrRosales/UGR-PDIH/tree/main/S1)
 + **Seminario 2:** Entrada/Salida utilizando interrupciones con lenguaje C.
 + **Seminario 3:** Experimentación con sistemas de microcontrolador.
 + **Seminario 4:** Desarrollo de drivers en Linux.
