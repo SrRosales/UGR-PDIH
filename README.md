@@ -6,8 +6,8 @@
 
 + **Práctica 0:** [Presentación.](https://github.com/SrRosales/UGR-PDIH/tree/main/PO)
 + **Práctica 1:** [Entrada/Salida a bajo nivel.](https://github.com/SrRosales/UGR-PDIH/tree/main/P1)
-+ **Práctica 2:** [Uso de bibliotecas de programación de interfaces de usuario](https://github.com/SrRosales/UGR-PDIH/tree/main/P2)
-en modo texto.
++ **Práctica 2:** [Uso de bibliotecas de programación de interfaces de usuario
+en modo texto.] ((https://github.com/SrRosales/UGR-PDIH/tree/main/P2))
 + **Práctica 3:** Experimentación con sistemas de microcontrolador.
 + **Práctica 4:** Lenguaje de descripción de páginas para impresoras.
 + **Práctica 5:** Experimentación con el sistema de sonido.
