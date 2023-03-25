@@ -1,4 +1,4 @@
-# Práctica 1: Uso de bibliotecas de programación de interfaces de usuario en modo texto.
+# Práctica 2: Uso de bibliotecas de programación de interfaces de usuario en modo texto.
 
 ## 1. Objetivos de la práctica
 
