@@ -440,7 +440,7 @@ int main(int argc, char *argv[]){
 
 <br>
 
-***Pong2.c***
+***Pong.c***
 ```
 // 
 // gcc Pong.c -o Pong -lncurses
