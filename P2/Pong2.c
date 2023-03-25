@@ -1,5 +1,5 @@
 // 
-// gcc Pong.c -o Pong -lncurses
+// gcc Pong2.c -o Pong2 -lncurses
 // 
 
 #include <stdlib.h>
