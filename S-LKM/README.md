@@ -24,8 +24,23 @@
 ### Es conveniente usar módulos del kernel porque así la interacción con dispositivos periféricos se realiza mediante una interfaz homogénea siempre (usando sysfs) yoperaciones de archivo sencillas tipo apertura, lectura, escritura y cierre.
 
 ----------------------------
+## **3. Preparar el sistema para construir LKMs:**
 
-## **3. Ejemplo de LKM:**
+### Para desarrollar LKMs el sistema operativo debe estar preparado para compilar el código del kernel, y para ello hay que tener instaladas las cabeceras de Linux:
+
+```
+sudo apt-get update
+sudo apt-cache search linux-headers-$(uname -r)
+sudo apt-get install linux-headers-$(uname -r)
+```
+
+### Debemos asegurarnos de que instalamos las cabeceras para la versión correcta de nuestro kernel (podemos usar uname -a para identificar la versión concreta). 
+
+### Puesto que es relativamente fácil bloquear (y dañar) el sistema operativo cuando cargamos nuevos LKMs, **se recomienda no usar nuestra máquina Linux principal**, sino usar máquinas virtuales en las que hacer todas las pruebas.
+
+----------------------------
+
+## **4. Ejemplo de LKM:**
 
 ### Usaremos como código de ejemplo el facilitado por “derekmolloy” en su repositorio: 
 
