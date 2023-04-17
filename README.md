@@ -4,7 +4,7 @@
 
 ## Prácticas
 
-+ **Práctica 0:** [Presentación.](https://github.com/SrRosales/UGR-PDIH/tree/main/PO)
++ **Práctica 0:** Presentación.
 + **Práctica 1:** [Entrada/Salida a bajo nivel.](https://github.com/SrRosales/UGR-PDIH/tree/main/P1)
 + **Práctica 2:** [Uso de bibliotecas de programación de interfaces de usuario
 en modo texto.](https://github.com/SrRosales/UGR-PDIH/tree/main/P2)
