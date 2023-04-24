@@ -201,7 +201,6 @@ void loop()
 | Nombre  | Cantidad | Componente |
 | ------------- | ------------- |------------- |
 | U1 | 1 | Arduino 1 R3 |
-| R1 | 1 | 1 KΩ Resistencia |
 | PIR1 | 1 | -6.882850021331572 , -207.25779974063357 , -161.08871167396302 Sensor PIR |
 | PIEZO1 | 1 | Piezo |
 
