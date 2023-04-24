@@ -157,6 +157,7 @@ void loop()
 | D1 | 1 | Rojo LED |
 | D2 | 1 | Rojo LED |
 | D3 | 1 | Rojo LED |
+| D4 | 1 | Rojo LED |
 
 ### ***Código:***
 
