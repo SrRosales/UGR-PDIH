@@ -80,7 +80,7 @@ EOF
 
 ### En éste caso yo he hecho la mejora de que detecte cuando se conecta y se desconecta.
 
-### supongamos que queremos detectar, no solo la desconexión de un dispositivo, sino también cuándo se conecta al sistema. En este caso necesitaríamos dos scripts y crear las correspondientes reglas en el archivo .rules:
+### Supongamos que queremos detectar, no solo la desconexión de un dispositivo, sino también cuándo se conecta al sistema. En este caso necesitaríamos dos scripts y crear las correspondientes reglas en el archivo .rules:
 
 ```
 /root/insertar.sh
