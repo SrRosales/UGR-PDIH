@@ -1,0 +1,1 @@
+ACTION=="remove", SUBSYSTEM=="block", RUN+="/root/retirar.sh" 
