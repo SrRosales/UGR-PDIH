@@ -1,1 +1,2 @@
+ACTION=="add", SUBSYSTEM=="block", RUN+="/root/insertar.sh" 
 ACTION=="remove", SUBSYSTEM=="block", RUN+="/root/retirar.sh" 
