@@ -28,7 +28,7 @@ imágenes y gestos.
 voz.
 + **Seminario 11:** Sistemas de interacción persona-computador: chatbots.
 + **Seminario 12:** OCR con tesseract.
-+ **Seminario 13:** BusKill udevadm.
++ **Seminario 13:** [BusKill udevadm.](https://github.com/SrRosales/UGR-PDIH/tree/main/S-reglas-udev)
 
 ---------------
 
