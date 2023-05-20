@@ -11,15 +11,9 @@
 
 ### udev es un gestor de dispositivos genérico que se ejecuta como un demonio en un sistema Linux y escucha (a través de un socket netlink) los eventos que el kernel envía si se inicializa un nuevo dispositivo o se elimina un dispositivo del sistema. Este gestor de dispositivos se ejecuta en el espacio de usuario.
 
-<br>
-
 ### Las reglas de udev se leen de los archivos ubicados en el directorio de reglas del sistema /lib/udev/rules.d
 
-<br>
-
 ### cuando se agrega o quita un dispositivo (o cambia su estado de alguna forma) el kernel lo informa al servicio systemd-udevd. Este último puede configurarse para responder a dichos eventos mediante reglas en archivos con la extensión .rules
-
-<br>
 
 ### Por otro lado, la herramienta udevadm controla el funcionamiento de udev. Entre otros usos, destaca la monitorización de los eventos detectados por el kernel.
 
@@ -29,15 +23,9 @@
 
 ### Queremos crear una configuración en nuestra máquina de forma que al retirar un dispositivo USB del ordenador se lance una "acción udev".
 
-<br>
-
 ### Para configurarlo vamos a añadir una nueva regla al archivo de reglas udev, localizado en /etc/udev/rules.d/
 
-<br>
-
 ### La idea es crear una regla sencilla que ejecute un proceso (p.ej. lanzar el salvapantallas para bloquear la pantalla) cada vez que se retire cualquier dispositivo USB de uno de los puertos. Debemos tener siempre en cuenta que el proceso que se ejecute lo hará con privilegios de root.
-
-<br>
 
 ### Pero antes de comenzar con la configuración, veamos qué ocurre en el kernel cuando conectamos o desconectamos un dispositivo. Para ello ejecutamos el siguiente comando y vemos qué mensajes muestra el kernel ante cada tipo de evento:
 
