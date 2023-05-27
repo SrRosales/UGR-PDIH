@@ -10,7 +10,7 @@
 en modo texto.](https://github.com/SrRosales/UGR-PDIH/tree/main/P2)
 + **Práctica 3:** [Experimentación con sistemas de microcontrolador.](https://github.com/SrRosales/UGR-PDIH/tree/main/P3)
 + **Práctica 4:** [Lenguaje de descripción de páginas para impresoras.](https://github.com/SrRosales/UGR-PDIH/tree/main/P4)
-+ **Práctica 5:** Experimentación con el sistema de sonido.
++ **Práctica 5:** [Experimentación con el sistema de sonido.](https://github.com/SrRosales/UGR-PDIH/tree/main/P5)
 
 ## Seminarios
 
