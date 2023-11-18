@@ -2,6 +2,8 @@
 
 ### Repositorio de la asignatura PDIH del 4º Año del Grado de Ingeniería Informática - UGR curso 22/23.
 
++ **Proyecto App Codigos Qr:** [App Codigos Qr.](https://github.com/SrRosales/UGR-PDIH/tree/main/CÓDIGOS%20QR)
+
 ## Prácticas
 
 + **Práctica 0:** Presentación.
